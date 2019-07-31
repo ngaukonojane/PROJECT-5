@@ -1,0 +1,13 @@
+body{
+	background-image:url(../images/2.jpg);
+	}
+.nav-link {
+	width: 120%;
+	height: 80px;
+	background-color:  #86592d;
+}
+.card-header{
+	background-color: #86592d;
+	width: 260px;
+	height: 80px;	
+}	
